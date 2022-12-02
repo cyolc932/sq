@@ -1,6 +1,6 @@
 ### Fork
 
-https://github.com/netnr/uuid 中的`dist`分支 | [Fork日期](https://github.com/netnr/uuid/commit/bce83c3d87982202129f0bb6b489637e885cbff6) 
+[uuid](https://github.com/netnr/uuid) 中的`dist`分支 | [Fork日期](https://github.com/netnr/uuid/commit/bce83c3d87982202129f0bb6b489637e885cbff6) 
 
 ### 搜寻
 
