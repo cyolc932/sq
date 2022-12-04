@@ -9,7 +9,6 @@
 
 ### 此外综合
 - [文件转换](https://www.aconvert.com/)
-- [BuLink永久免费加速](https://bulink.xyz/)
 - [搜信源](http://souxinyuan.com/)
 - [棱角安全-情报信息资源](https://forum.ywhack.com/bountytips.php?tools)
 - [WikiHow中文(可以信赖的指南）](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
@@ -97,6 +96,7 @@
 - [ImCa0/just-laws: 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.](https://github.com/ImCa0/just-laws)
 - [Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution](https://www.kali.org/)
 - [kali文档 | Kali Linux 文档](https://www.kali.org/docs/)
+- [BuLink永久免费加速](https://bulink.xyz/)
 - [Hacking8 安全信息流](https://i.hacking8.com/)
 - [Hacking8 安全文库 - 像黑客一样学习](https://www.hacking8.com/)
 - [火绒恶性木马专杀工具 - 火绒安全工具 - 火绒安全软件](https://bbs.huorong.cn/thread-18575-1-1.html)
@@ -1638,7 +1638,7 @@
 - [攻克 12306 前端加密算法 · 雪之梦](https://snowdreams1006.github.io/tools/12306-algorithm-web-js.html)
 - [如何写作 · 雪之梦](https://snowdreams1006.github.io/write/)
 - [豁免条款 - 风记星辰](https://www.thyuu.com/statement/exemption)
-- [king-zhangbn/yindaoye](https://github.com/king-zhangbn/yindaoye)
+- [king-zhangbn/yindaoye 主页 ](https://github.com/king-zhangbn/yindaoye)
 - [Blog Tool, Publishing Platform, and CMS – WordPress.org](https://wordpress.org/)
 - [LKs - 良心到难以置信的网站推荐](https://xiangjianan.github.io/lks/)
 - [首页-风雪工具站](https://zxso.net/?hmsr=bazhan_wang)
@@ -2183,6 +2183,16 @@
 - [Feeddd - 分布式，免费的微信公众号 RSS 订阅源，已超过 30000+ 微信公众号 - 小众软件](https://www.appinn.com/feeddd/)
 - [Hat.sh - 简洁、快速、安全的用户端文件加密](https://hat.sh/)
 - [sh-dv/hat.sh: Encrypt and Decrypt files securely in your browser.一款离线的的用户端文件加密工具](https://github.com/sh-dv/hat.sh)
+- [包子の公开API](https://api.bugjava.cn/)
+- [爬取免费代理IP | 包子哟](https://blog.bugjava.cn/post/dailiip/)
+- [国内高匿免费HTTP代理IP - 快代理](https://www.kuaidaili.com/free/)
+- [制作随机图片/视频api（本地/外链） | 包子哟](https://blog.bugjava.cn/post/imgvideoapi/)
+- [(/≧▽≦/)欢迎回来！ 爬取某网站小姐姐壁纸 | 包子哟](https://blog.bugjava.cn/post/xiaojiejiebizhi/)
+- [解析神器xpath使用教程 | 包子哟](https://blog.bugjava.cn/post/xpath-use/)
+- [(/≧▽≦/)欢迎回来！ 利用NodeJs本地部署UnblockNeteaseMusic | 包子哟](https://blog.bugjava.cn/post/PCUnblockNeteaseMusic/)
+- [使用宝塔安装 UnblockNeteaseMusic | 包子哟](https://blog.bugjava.cn/post/UnblockNeteaseMusic/)
+- [如何在A系统一键重启到B系统 - 问题求助 - 小众软件官方论坛](https://meta.appinn.net/t/topic/38533)
+- [再这样玩手机，你可能真的会失明！](https://mp.weixin.qq.com/s/vyI2-jO21OXgnQPI2cL7JQ)
 - [───────────](https://separator.mayastudios.com/index.php?t=horz)
 
 ### 功能类
