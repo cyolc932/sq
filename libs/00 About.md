@@ -2224,6 +2224,19 @@
 - [简历图片-简历模板-图片编辑制作-创客贴](https://www.chuangkit.com/tupian/jianli-or0-pt2-pn1.html)
 - [简历模板_简历设计模板 - Canva可画](https://www.canva.cn/templates/search/%E7%AE%80%E5%8E%86/)
 - [简历模板_在线简历编辑制作-象刀设计](https://www.101dao.com/templates/FL129)
+- [5ky1ar/Awesome-Onion-Links: A list containing .onion links for the tor network aka the dark web一个较全的暗网网址清单（部分网址已失效） 有暗网指南、图书、音乐、加密货币、购物、UFO等各种分类](https://github.com/5ky1ar/Awesome-Onion-Links)
+- [Deno Deploy](https://deno.com/deploy)
+- [wong2/chat-gpt-google-extension: A browser extension to display ChatGPT response alongside Google Search results一个可以 Google 搜索结果右侧同时展示 ChatGPT 的回答的插件 需要登录](https://github.com/wong2/chat-gpt-google-extension)
+- [React Router Tutorial: Redirect Like a Pro | ToptalReact路由器教程：像专业人士一样重定向](https://www.toptal.com/react/react-router-tutorial)
+- [OpenAI 12.5 | OpenAI -ChatGPT 相关介绍一览，收录了ChatGPT的相关简介，注册方法，综述，提问技巧等文章，以及一些常用的语法的onepage。](https://three-recorder-52a.notion.site/OpenAI-12-5-88e7b6a77db74d41b038440b824d7f9f)
+- [AI 答题真有智能吗？聊聊 ChatGPT 印象 - 少数派 懂行且能聊，它比搜索引擎更有趣：ChatGPT 上手体验](https://sspai.com/post/77081)
+- [潮流周刊](https://weekly.tw93.fun/)
+- [普通人如何不被 OpenAI 取代？ - Tw93](https://tw93.fun/2022-12-04/openai.html)
+- [如何在中国大陆玩 ChatGPT？（仅需 1.x 元） – Telegraph](https://telegra.ph/how-to-register-openai-to-play-ChatGPT-12-05)
+- [【ChatGPT零基础教程】从注册到使用，完整教程-FancyPig's blog](https://www.iculture.cc/knowledge/pig=28178)
+- [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)
+- [在线接受短信的虚拟号码 - SMS-Activate](https://sms-activate.org/cn)
+- [OpenAI 推出超神 ChatGPT 注册攻略来了 - V2EX](https://www.v2ex.com/t/900126)
 - [───────────](https://separator.mayastudios.com/index.php?t=horz)
 
 ### 功能类
@@ -15115,6 +15128,8 @@
 - [菜鸟工具 - 不止于工具](https://c.runoob.com/)
 - [Emoji翻译器 (将简体中文翻译成Emoji) | EmojiAll](https://www.emojiall.com/zh-hans/emoji-translator-page)
 - [Voice - Setelan](https://voice.google.com/u/0/settings)
+- [Overview - OpenAI API](https://beta.openai.com/overview)
+- [ChatGPT](https://chat.openai.com/chat)
 - [章鱼](https://github.com/)
 
 ### 新闻
@@ -15296,3 +15311,4 @@
 - [开发](https://dc6.fun/reference/)
 - [导图](https://xmind.app/share/?category=zh)
 - [c](https://dc6.fun/c-tutorial/c_getstarted.html)
+- [ChatGPT](https://chat.openai.com/chat)
