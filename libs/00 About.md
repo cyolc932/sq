@@ -2283,6 +2283,9 @@
 - [mpociot/chatgpt-vscode: A VSCode extension that allows you to use ChatGPTChatGPT VSCode插件](https://github.com/mpociot/chatgpt-vscode)
 - [transitive-bullshit/chatgpt-api: Node.js client for the unofficial ChatGPT API. 🔥ChatGPT API(node.js)](https://github.com/transitive-bullshit/chatgpt-api)
 - [vincelwt/chatgpt-mac: ChatGPT for Mac, living in your menubar.ChatGPT Mac客户端](https://github.com/vincelwt/chatgpt-mac)
+- [【渗透工具系列】社区驱动的漏洞扫描神器Nuclei-FancyPig's blog](https://www.iculture.cc/software/pig=28233)
+- [与Chatgpt沟通方式一览](https://three-recorder-52a.notion.site/bfcea49b96154f96831bf77371e3c692?v=14fcb3515be14558a591a436db05c80d)
+- [OpenAI Chatgpt 12.5](https://three-recorder-52a.notion.site/OpenAI-Chatgpt-12-5-88e7b6a77db74d41b038440b824d7f9f)
 - [───────────](https://separator.mayastudios.com/index.php?t=horz)
 
 ### 功能类
